@@ -5,7 +5,6 @@ This project provides a comprehensive analysis of the Amazon Prime Video library
 
 ## 📊 Dashboard Preview
 ![Dashboard Screenshot](DashBoard_Ss.png)
-*(Note: Replace the link above with the image you upload to GitHub)*
 
 ## 🛠️ Tech Stack & Skills
 * **Data Cleaning:** Power Query (ETL)
