@@ -4,7 +4,7 @@
 This project provides a comprehensive analysis of the Amazon Prime Video library (as of 2021). The goal was to transform raw, messy data into a strategic business dashboard that helps stakeholders understand content distribution, genre popularity, and library freshness.
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](Dashboard_Ss.png)
+![Dashboard Screenshot](DashBoard_Ss.png)
 *(Note: Replace the link above with the image you upload to GitHub)*
 
 ## 🛠️ Tech Stack & Skills
